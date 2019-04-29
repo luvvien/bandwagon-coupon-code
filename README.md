@@ -2,6 +2,8 @@
 
 > bandwagon coupon code spider - 搬瓦工最新优惠码抓取工具
 
+Daily update site: [banwagon coupon code](https://vien.tech/bandwagon)
+
 depend on:
 
 - BeautifulSoup
