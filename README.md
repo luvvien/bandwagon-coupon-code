@@ -2,7 +2,11 @@
 
 > bandwagon coupon code spider - 搬瓦工最新优惠码抓取工具
 
-Daily update site: [banwagon coupon code](https://vien.tech/bandwagonhost)
+[搬瓦工官网（已被墙）](https://bandwagonhost.com/aff.php?aff=46593)
+[搬瓦工（中国官网)](https://bwh88.net/aff.php?aff=46593)
+
+Daily update site: [banwagon coupon code](https://viencoding.com/bandwagonhost)
+最新优惠码（每日更新）: [搬瓦工最新优惠码](https://viencoding.com/bandwagonhost)
 
 depend on:
 
