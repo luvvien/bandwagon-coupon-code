@@ -8,10 +8,12 @@
 Daily update site: [banwagon coupon code](https://viencoding.com/bandwagonhost)
 最新优惠码（每日更新）: [搬瓦工最新优惠码](https://viencoding.com/bandwagonhost)
 
+environment: python3.x
+
 depend on:
 
-- BeautifulSoup
-- requests
+- BeautifulSoup：`pip install bs4`
+- requests: `pip install requests`
 
 useage:
 
